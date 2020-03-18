@@ -2,10 +2,10 @@
 title:              "JoshTime"
 description:        "A site of Josh"
 author_name:        "JoshTime" # change this to your name
-logo_url:           https://www.hijoe.tk/media/josh.png # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://i.hijoe.tk/media/josh.png # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://www.hijoe.tk # main url
+url:                https://i.hijoe.tk # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
